@@ -44,8 +44,8 @@ body {
 }
 
 .container {
-  width: 100%;
-  height: 100%;
+  width: var(--trmnl-sm-width);
+  height: var(--trmnl-sm-height);
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
